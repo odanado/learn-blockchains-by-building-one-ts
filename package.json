@@ -1,0 +1,9 @@
+{
+  "name": "learn-blockchains-by-building-one-ts",
+  "version": "1.0.0",
+  "description": "https://postd.cc/learn-blockchains-by-building-one/ をtypescriptでやる",
+  "main": "index.js",
+  "repository": "https://github.com/odanado/learn-blockchains-by-building-one-ts",
+  "author": "odan",
+  "license": "MIT"
+}
