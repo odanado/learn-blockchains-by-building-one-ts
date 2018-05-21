@@ -9,7 +9,9 @@
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "sha2": "^1.0.2"
+  },
   "devDependencies": {
     "@types/node": "^10.1.2",
     "tslint": "^5.10.0",
