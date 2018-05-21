@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "https://github.com/odanado/learn-blockchains-by-building-one-ts",
   "author": "odan",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.1.2",
+    "tslint": "^5.10.0",
+    "tslint-config-standard": "^7.0.0",
+    "typescript": "^2.8.3"
+  }
 }
